@@ -3,6 +3,13 @@
 
 ### I'm journalist now, but want to change profession. So, now I'm learning HTML, CSS & JS in RS School. 
 
+## Experience
+
+* 2018 - current time: journalist at Zhitomir.life 
+* 2017 - 2018: journalist and press secretary ar Narodnyy control
+
+
+
 
 
 
