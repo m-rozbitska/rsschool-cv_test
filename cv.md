@@ -8,6 +8,24 @@
 * 2018 - current time: journalist at Zhitomir.life 
 * 2017 - 2018: journalist and press secretary ar Narodnyy control
 
+## Skills
+
+* HTML - basic
+* CSS - basic
+* Git - basic
+
+## Education
+
+* Zhytomyr Ivan Franko State University
+  * master degree in Ukrainian philology
+
+## Languages
+
+* Ukrainian - native
+* English - fluent
+
+
+
 
 
 
